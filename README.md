@@ -9,26 +9,25 @@ https://docs.google.com/document/d/1RhLfHZd1Gw2wzYNcggHD7osK851MX_hIXNidUyz91as/
 
 Experience the live version of the Portfolio Website here: [Live Demo](https://flippyecommerce.vercel.app)
 
-## Screenshots
+## Screenshots 
 
-![Flippy Website Screenshot] 
 ## Home Page
-![Screenshot (7)](https://github.com/user-attachments/assets/1ef8589e-eda7-4274-bbf2-5cd7d83aed1e)
+![Screenshot (64)](https://github.com/user-attachments/assets/38e683a0-a899-459d-a52a-2dce6c1beda1)
 
 ## Paginated Page
-![Screenshot (13)](https://github.com/user-attachments/assets/4bba1eac-396e-4444-81aa-6ef3b502058b)
+![Screenshot (65)](https://github.com/user-attachments/assets/9285db5c-cb61-4984-9ad9-cff8c6ebde52)
 
 ## Filtering Page
-![Screenshot (11)](https://github.com/user-attachments/assets/f8713f8b-dc60-45ef-9e2b-a9bee9dd1f51)
+![Screenshot (66)](https://github.com/user-attachments/assets/59728905-522d-4dbc-a6d4-70d28e0ca181)
 
 ## Create Product Page
-![Screenshot (12)](https://github.com/user-attachments/assets/1427b0a7-9136-4881-a661-8395bdd603e5)
+![Screenshot (67)](https://github.com/user-attachments/assets/0d2bc36c-112d-47f8-af80-f8057f70e2db)
 
 ## Update Product Page
-![Screenshot (15)](https://github.com/user-attachments/assets/8abc3d98-6fd1-4e95-92a3-1d44b32cb231)
+![Screenshot (69)](https://github.com/user-attachments/assets/310769eb-0a06-4a2a-a2ce-3f4cd2cb9d0c)
 
 ## Products Details Page
-![Screenshot (14)](https://github.com/user-attachments/assets/f9127c46-9444-4559-bd8c-87b3228fdd8e)
+![Screenshot (68)](https://github.com/user-attachments/assets/ef44f192-772a-4b54-b2b5-eba1c7b126f0)
 
 ## Features
 
