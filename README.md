@@ -12,22 +12,22 @@ Experience the live version of the Portfolio Website here: [Live Demo](https://f
 ## Screenshots 
 
 ## Home Page
-![Screenshot (64)](https://github.com/user-attachments/assets/38e683a0-a899-459d-a52a-2dce6c1beda1)
+![Screenshot (64)](https://github.com/user-attachments/assets/6289d171-9e2c-4764-a7e5-1fbf980045be)
 
 ## Paginated Page
-![Screenshot (65)](https://github.com/user-attachments/assets/9285db5c-cb61-4984-9ad9-cff8c6ebde52)
+![Screenshot (65)](https://github.com/user-attachments/assets/a604e129-5adf-49c2-ac1e-216f74185c9c)
 
 ## Filtering Page
-![Screenshot (66)](https://github.com/user-attachments/assets/59728905-522d-4dbc-a6d4-70d28e0ca181)
+![Screenshot (66)](https://github.com/user-attachments/assets/0d1cfac8-c599-40e9-acb6-72c0193d70ba)
 
 ## Create Product Page
-![Screenshot (67)](https://github.com/user-attachments/assets/0d2bc36c-112d-47f8-af80-f8057f70e2db)
+![Screenshot (67)](https://github.com/user-attachments/assets/ae27ff25-c881-42f2-ab5f-a09b69c5e171)
 
 ## Update Product Page
-![Screenshot (69)](https://github.com/user-attachments/assets/310769eb-0a06-4a2a-a2ce-3f4cd2cb9d0c)
+![Screenshot (69)](https://github.com/user-attachments/assets/9f9e36e3-e613-42f6-bea6-51546ef30adb)
 
 ## Products Details Page
-![Screenshot (68)](https://github.com/user-attachments/assets/ef44f192-772a-4b54-b2b5-eba1c7b126f0)
+![Screenshot (68)](https://github.com/user-attachments/assets/48d54f4d-33fc-4cc6-87f4-3f5eb9cc47ce)
 
 ## Features
 
